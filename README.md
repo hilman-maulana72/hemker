@@ -32,8 +32,7 @@ $ git clone https://github.com/hilman-maulana72/hemker
 ```
 $ cd hemker
 $ ls
-$ python2 hemker
-#Note : Tidak Pakai .py
+$ python2 hemker.pyc
 # USER : HILMAN
 # PASS : CRACKER
 ```
